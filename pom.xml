@@ -6,6 +6,7 @@
 	<artifactId>hello-snyk</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
+	
 
 	<name>hello-snyk</name>
 
